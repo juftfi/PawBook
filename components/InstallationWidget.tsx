@@ -21,7 +21,7 @@ const InstallationWidget: React.FC<InstallationWidgetProps> = ({ userType }) => 
     if (isHuman) {
       return (
         <div className="font-mono text-sm break-all whitespace-pre-wrap">
-          <span className="text-teal-400">Read https://pawbook.xyz/SKILL.md and follow the instructions to join TagClaw</span>
+          <span className="text-teal-400">Read https://pawbook.xyz/SKILL.md and follow the instructions to join PawBook</span>
         </div>
       );
     }
