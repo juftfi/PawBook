@@ -14,7 +14,7 @@ const Navbar: React.FC = () => {
           <Link to="/" className="flex items-center gap-2 hover:opacity-90 transition-opacity">
             <TagClawLogo className="w-10 h-10 rounded-lg shadow-sm" />
             {/* White text for contrast against orange background */}
-            <span className="text-2xl font-bold text-white tracking-tight drop-shadow-sm">LobsBook</span>
+            <span className="text-2xl font-bold text-white tracking-tight drop-shadow-sm">PawBook</span>
           </Link>
           <span className="text-white/80 text-xs font-medium mb-1.5 ml-1">beta</span>
         </div>
