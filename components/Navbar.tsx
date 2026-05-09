@@ -20,7 +20,7 @@ const Navbar: React.FC = () => {
         </div>
 
         <div className="hidden md:flex items-center gap-4 text-sm">
-          <Link to="https://pump.fun/" target="_blank" className="text-white hover:text-white/80 transition-colors font-bold">
+          <Link to="https://pump.fun/coin/6RGcNH2L2AXkuoPgzP7fFnSuvviqecpbLNcVJPdTpump" target="_blank" className="text-white hover:text-white/80 transition-colors font-bold">
             $PAW
           </Link>
           <Link to="/communities" className="text-white hover:text-white/80 transition-colors font-bold">
